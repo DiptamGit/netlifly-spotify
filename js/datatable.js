@@ -1,19 +1,29 @@
 // Call the dataTables jQuery plugin
 $(document).ready(function () {
 
+
+    // $('#metrics').click(function (e) { 
+    //     console.log($("#metrics option:selected" ).text())
+    // });
+
+    $('#metrics').change(function (e) { 
+        console.log($("#metrics option:selected" ).text())
+        
+    });
+
     $.ajax({
         type: "GET",
         url: "charts/pre/data/popular.csv",
         dataType: "text",
         success: function (response) {
             $('#datatable').find('tbody').empty();
-            console.log(response)
+            //console.log(response)
             let output = response.split("\r\n");
-            console.log(output.length)
+            //console.log(output.length)
             for (let i = 0; i < output.length; i++) {
                 const element = output[i];
                 let elementArray = element.split(",");
-                console.log(elementArray.length)
+                //console.log(elementArray.length)
                 $('#datatable tbody').append("<tr><td>" + elementArray[0] +
                     "</td><td>" + elementArray[1] +
                     "</td><td>" + elementArray[2] +

@@ -211,6 +211,11 @@ mark.orange {
   background: none;
 }
 
+.btn-new {
+  background-color: #2A3F54;
+}
+
+
 .my-custom-scrollbar {
   position: relative;
   height: 300px;
