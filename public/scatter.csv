@@ -1,0 +1,200 @@
+name,artists,popularity,danceability
+Take on Me,['a-ha'],86,0.573
+Dreams - 2004 Remaster,['Fleetwood Mac'],86,0.828
+Billie Jean,['Michael Jackson'],85,0.92
+Back In Black,['AC/DC'],85,0.31
+Every Breath You Take,['The Police'],85,0.82
+Everybody Wants To Rule The World,['Tears For Fears'],84,0.645
+Livin' On A Prayer,['Bon Jovi'],84,0.532
+Highway to Hell,['AC/DC'],84,0.574
+Hotel California - 2013 Remaster,['Eagles'],84,0.579
+Africa,['TOTO'],84,0.671
+Another One Bites The Dust - Remastered 2011,['Queen'],83,0.933
+Summer Of '69,['Bryan Adams'],83,0.508
+I Wanna Dance with Somebody (Who Loves Me),['Whitney Houston'],83,0.709
+Sweet Dreams (Are Made of This) - Remastered,"['Eurythmics', 'Annie Lennox', 'Dave Stewart']",83,0.692
+Here Comes The Sun - Remastered 2009,['The Beatles'],83,0.557
+Sweet Home Alabama,['Lynyrd Skynyrd'],83,0.596
+Fortunate Son,['Creedence Clearwater Revival'],83,0.64
+Bohemian Rhapsody - Remastered 2011,['Queen'],83,0.414
+I'm Still Standing,['Elton John'],83,0.504
+Don't Stop Believin',['Journey'],82,0.5
+Ain't No Mountain High Enough,"['Marvin Gaye', 'Tammi Terrell']",82,0.663
+Sweet Child O' Mine,"[""Guns N' Roses""]",82,0.454
+Just the Two of Us (feat. Bill Withers),"['Grover Washington, Jr.', 'Bill Withers']",82,0.802
+Don't Stop Me Now - Remastered 2011,['Queen'],82,0.559
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",['Elton John'],82,0.601
+The Chain - 2004 Remaster,['Fleetwood Mac'],82,0.545
+Mr. Blue Sky,['Electric Light Orchestra'],82,0.388
+You Give Love A Bad Name,['Bon Jovi'],81,0.541
+Dancing Queen,['ABBA'],81,0.543
+Sultans Of Swing,['Dire Straits'],81,0.733
+September,"['Earth, Wind & Fire']",81,0.697
+You Shook Me All Night Long,['AC/DC'],81,0.532
+Under Pressure - Remastered 2011,"['Queen', 'David Bowie']",81,0.671
+Jump - 2015 Remaster,['Van Halen'],80,0.572
+Wake Me Up Before You Go-Go,['Wham!'],80,0.62
+We Will Rock You - Remastered,['Queen'],80,0.692
+More Than a Feeling,['Boston'],80,0.377
+With Or Without You - Remastered,['U2'],80,0.54
+I Still Haven't Found What I'm Looking For,['U2'],80,0.564
+Brown Eyed Girl,['Van Morrison'],80,0.491
+Tiny Dancer,['Elton John'],80,0.414
+Should I Stay or Should I Go - Remastered,['The Clash'],80,0.743
+My Girl,['The Temptations'],80,0.572
+Beat It,['Michael Jackson'],80,0.779
+Three Little Birds,['Bob Marley & The Wailers'],80,0.814
+Your Song,['Elton John'],80,0.554
+I Was Made For Lovin' You,['KISS'],80,0.768
+Walking On Sunshine,['Katrina & The Waves'],79,0.596
+I Want to Know What Love Is - 1999 Remaster,['Foreigner'],79,0.477
+Landslide,['Fleetwood Mac'],79,0.414
+"Paint It, Black",['The Rolling Stones'],79,0.464
+Paradise City,"[""Guns N' Roses""]",79,0.273
+Uptown Girl,['Billy Joel'],79,0.701
+California Dreamin' - Single Version,['The Mamas & The Papas'],79,0.552
+Ahora Te Puedes Marchar,['Luis Miguel'],79,0.78
+You Make My Dreams (Come True),['Daryl Hall & John Oates'],79,0.751
+Free Fallin',['Tom Petty'],79,0.623
+Ain't No Sunshine,['Bill Withers'],79,0.527
+Imagine - Remastered 2010,['John Lennon'],79,0.547
+Stairway to Heaven - Remaster,['Led Zeppelin'],79,0.338
+Take It Easy - 2013 Remaster,['Eagles'],79,0.575
+Everywhere - 2017 Remaster,['Fleetwood Mac'],79,0.73
+Can't Help Falling in Love,['Elvis Presley'],79,0.396
+Let It Be - Remastered 2009,['The Beatles'],79,0.443
+"Signed, Sealed, Delivered (I'm Yours)",['Stevie Wonder'],79,0.675
+Gimme! Gimme! Gimme! (A Man After Midnight),['ABBA'],79,0.749
+Have You Ever Seen The Rain,['Creedence Clearwater Revival'],79,0.741
+Stand by Me,['Ben E. King'],79,0.65
+Fast Car,['Tracy Chapman'],79,0.711
+Bad Moon Rising,['Creedence Clearwater Revival'],79,0.508
+Sweet Caroline,['Neil Diamond'],79,0.529
+Come Together - Remastered 2009,['The Beatles'],79,0.533
+Dream On,['Aerosmith'],79,0.307
+T.N.T.,['AC/DC'],79,0.754
+All Along the Watchtower,['Jimi Hendrix'],79,0.438
+Girls Just Want to Have Fun,['Cyndi Lauper'],79,0.71
+Could You Be Loved,['Bob Marley & The Wailers'],78,0.916
+(I Can't Get No) Satisfaction - Mono Version,['The Rolling Stones'],78,0.723
+9 to 5,['Dolly Parton'],78,0.554
+Smooth Criminal - 2012 Remaster,['Michael Jackson'],78,0.853
+Welcome To The Jungle,"[""Guns N' Roses""]",78,0.447
+Dust in the Wind,['Kansas'],78,0.475
+In The Air Tonight - 2015 Remastered,['Phil Collins'],78,0.446
+Whole Lotta Love - 1990 Remaster,['Led Zeppelin'],78,0.412
+Where Is My Mind? - Remastered,['Pixies'],78,0.519
+Paranoid,['Black Sabbath'],78,0.429
+Hold the Line,['TOTO'],78,0.473
+Start Me Up - Remastered,['The Rolling Stones'],78,0.631
+Immigrant Song - Remaster,['Led Zeppelin'],78,0.564
+The Final Countdown,['Europe'],78,0.529
+A Horse with No Name,"['America', 'George Martin']",78,0.654
+Baba O'Riley,['The Who'],78,0.489
+You Can't Hurry Love - 2016 Remaster,['Phil Collins'],78,0.62
+The Boys Of Summer,['Don Henley'],78,0.516
+Dancing In the Dark,['Bruce Springsteen'],78,0.527
+Walk Of Life,['Dire Straits'],78,0.462
+We Built This City,['Starship'],78,0.661
+Don't Go Breaking My Heart,"['Elton John', 'Kiki Dee']",78,0.729
+Come and Get Your Love - Single Version,['Redbone'],78,0.731
+"Another Brick in the Wall, Pt. 2",['Pink Floyd'],77,0.694
+You Can Call Me Al,['Paul Simon'],77,0.776
+La Incondicional,['Luis Miguel'],77,0.374
+Roxanne,['The Police'],77,0.618
+Johnny B. Goode,['Chuck Berry'],77,0.534
+Go Your Own Way - 2004 Remaster,['Fleetwood Mac'],77,0.583
+Easy,['Commodores'],77,0.589
+Lovely Day,['Bill Withers'],77,0.69
+Wonderful Tonight,['Eric Clapton'],77,0.572
+For What It's Worth,['Buffalo Springfield'],77,0.653
+Come On Eileen,['Dexys Midnight Runners'],77,0.45
+Nothing's Gonna Stop Us Now,['Starship'],77,0.643
+My Sweet Lord - Remastered 2014,['George Harrison'],77,0.537
+La Grange - 2005 Remaster,['ZZ Top'],77,0.545
+I Say a Little Prayer,['Aretha Franklin'],77,0.592
+"Mrs. Robinson - From ""The Graduate"" Soundtrack",['Simon & Garfunkel'],77,0.606
+Yesterday - Remastered 2009,['The Beatles'],77,0.332
+Piano Man,['Billy Joel'],77,0.331
+The Joker,['Steve Miller Band'],77,0.596
+I Want You Back,['The Jackson 5'],77,0.469
+"Rasputin - 7"" Version",['Boney M.'],77,0.694
+Heaven,['Bryan Adams'],77,0.382
+At Last,['Etta James'],77,0.274
+Eye of the Tiger,['Survivor'],77,0.817
+Kickstart My Heart,['Mötley Crüe'],77,0.359
+Right Here Waiting,['Richard Marx'],77,0.395
+Wish You Were Here,['Pink Floyd'],77,0.481
+Wild World,['Yusuf / Cat Stevens'],77,0.48
+Listen to the Music,['The Doobie Brothers'],77,0.645
+(Don't Fear) The Reaper,['Blue Öyster Cult'],77,0.333
+You're so Vain,['Carly Simon'],77,0.659
+Hooked on a Feeling,"['Blue Swede', 'Björn Skifs']",77,0.547
+Walk This Way,['Aerosmith'],77,0.653
+Message In A Bottle,['The Police'],76,0.577
+Don't Stop 'Til You Get Enough,['Michael Jackson'],76,0.878
+Spirit In The Sky,['Norman Greenbaum'],76,0.609
+Gimme Shelter,['The Rolling Stones'],76,0.634
+We Didn't Start the Fire,['Billy Joel'],76,0.712
+Let's Stay Together,['Al Green'],76,0.756
+Is This Love,['Bob Marley & The Wailers'],76,0.776
+You're The One That I Want - From “Grease”,"['John Travolta', 'Olivia Newton-John']",76,0.758
+Walk On the Wild Side,['Lou Reed'],76,0.575
+How Deep Is Your Love,['Bee Gees'],76,0.633
+(Sittin' On) the Dock of the Bay,['Otis Redding'],76,0.769
+American Pie,['Don McLean'],76,0.531
+Brandy (You're a Fine Girl),['Looking Glass'],76,0.716
+I'm On Fire,['Bruce Springsteen'],76,0.62
+Build Me Up Buttercup - Mono,['The Foundations'],76,0.659
+The Lady In Red,['Chris de Burgh'],76,0.548
+The Boys Are Back In Town,['Thin Lizzy'],76,0.445
+If You Leave Me Now,['Chicago'],76,0.429
+Crazy Little Thing Called Love - Remastered 2011,['Queen'],76,0.599
+Another One Bites The Dust - Remastered 2011,['Queen'],76,0.933
+Jack & Diane,['John Mellencamp'],76,0.811
+You Can't Hurry Love,['The Supremes'],76,0.63
+Mamma Mia,['ABBA'],76,0.749
+"December, 1963 (Oh What a Night!)",['Frankie Valli & The Four Seasons'],76,0.737
+Rock And Roll All Nite,['KISS'],76,0.654
+Sweet Emotion,['Aerosmith'],76,0.38
+Tainted Love,['Soft Cell'],76,0.5
+Rebel Rebel - 2016 Remaster,['David Bowie'],76,0.635
+Devuélveme a mi chica,['Hombres G'],76,0.603
+Don't You (Forget About Me),['Simple Minds'],76,0.66
+I Want To Break Free - Single Remix,['Queen'],76,0.795
+Radio Ga Ga - Remastered 2011,['Queen'],76,0.744
+Born in the U.S.A.,['Bruce Springsteen'],76,0.398
+Give A Little Bit,['Supertramp'],76,0.531
+Heroes - 2017 Remaster,['David Bowie'],76,0.49
+We Are The Champions - Remastered 2011,['Queen'],76,0.268
+Purple Rain,['Prince'],76,0.367
+Bohemian Rhapsody - Remastered 2011,['Queen'],76,0.392
+Carry on Wayward Son,['Kansas'],76,0.482
+Break My Stride,['Matthew Wilder'],76,0.917
+Maniac,['Michael Sembello'],76,0.617
+Wanted Dead Or Alive,['Bon Jovi'],75,0.252
+Boys Don't Cry,['The Cure'],75,0.462
+We're Not Gonna Take It,['Twisted Sister'],75,0.502
+Boogie Wonderland,"['Earth, Wind & Fire', 'The Emotions']",75,0.802
+Bennie And The Jets - Remastered 2014,['Elton John'],75,0.665
+Angie,['The Rolling Stones'],75,0.429
+Rock with You - Single Version,['Michael Jackson'],75,0.808
+Escape (The Pina Colada Song),['Rupert Holmes'],75,0.836
+Blackbird - Remastered 2009,['The Beatles'],75,0.686
+Layla,['Derek & The Dominos'],75,0.404
+Cecilia,['Simon & Garfunkel'],75,0.755
+House of the Rising Sun,['The Animals'],75,0.316
+Father And Son,['Yusuf / Cat Stevens'],75,0.495
+Twist And Shout - Remastered 2009,['The Beatles'],75,0.482
+Can't Fight This Feeling,['REO Speedwagon'],75,0.408
+Pour Some Sugar On Me - Remastered 2017,['Def Leppard'],75,0.267
+Alone,['Heart'],75,0.418
+Sweet Child O' Mine,"[""Guns N' Roses""]",75,0.446
+Go Your Own Way - 2004 Remaster,['Fleetwood Mac'],75,0.586
+Another Day in Paradise - 2016 Remaster,['Phil Collins'],75,0.78
+This Charming Man - 2011 Remaster,['The Smiths'],75,0.611
+Let's Groove,"['Earth, Wind & Fire']",75,0.869
+I'm a Believer - 2006 Remaster,['The Monkees'],75,0.526
+Jamming,['Bob Marley & The Wailers'],75,0.934
+Barracuda,['Heart'],75,0.547
+Smoke On The Water - Remastered 2012,['Deep Purple'],75,0.598
