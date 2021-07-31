@@ -37,7 +37,7 @@
         <!-- <script type="text/javascript" src="js/my-vis.js"></script> -->
         <script type="text/javascript">
 
-            d3.csv('scatter.csv', function loadCallback(error, data) {
+            d3.csv('data/popular_danceability.csv', function loadCallback(error, data) {
                 data.forEach(function(d) { // convert strings to numbers
                     d.popularity = +d.popularity;
                     d.danceability = +d.danceability;
