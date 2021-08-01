@@ -185,6 +185,13 @@ small, .small {
   font-size: 0.875em;
 }
 
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 mark, .mark {
   padding: 0.2em;
   background-color: #fcf8e3;

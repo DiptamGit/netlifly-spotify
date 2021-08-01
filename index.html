@@ -22,12 +22,7 @@
             <div id="layoutSidenav_nav">
                 <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                     <div class="sb-sidenav-menu">
-                        <div class="nav">
-                            <div class="sb-sidenav-menu-heading">Core</div>
-                            <a class="nav-link" href="index.html">
-                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
-                                Dashboard
-                            </a>
+                        <div class="nav">                            
                             
                             <div class="sb-sidenav-menu-heading">Time Period</div>
                             <a class="nav-link" href="index.html">
@@ -60,24 +55,38 @@
                         <div class="row">
                             <div class="col-xl-3 col-md-6">
                                 <div class="card bg-primary text-white mb-4">
-                                    <div class="card-body">Track Info</div>
+                                    <div class="card-body">Total 600k tracks, 30k artists</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" href="https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks" target="_blank">Kaggle link</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-md-6">
                                 <div class="card bg-warning text-white mb-4">
-                                    <div class="card-body">Artist Info</div>
+                                    <div class="card-body">Total 13 Metrics in Dataset</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" href="https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks">Kaggle link</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-md-6">
                                 <div class="card bg-success text-white mb-4">
-                                    <div class="card-body">Year range</div>
-                                    
+                                    <div class="card-body">D3,Bootstrap, Python, Netlify</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" href="https://github.com/DiptamGit/netlifly-spotify">Github</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-md-6">
                                 <div class="card bg-danger text-white mb-4">
-                                    <div class="card-body">Metrics</div>
-                                    
+                                    <div class="card-body">6 out of 13 metrics has been used</div>
+                                    <div class="card-footer d-flex align-items-center justify-content-between">
+                                        <a class="small text-white stretched-link" href="https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features">Spotify web api</a>
+                                        <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -101,12 +110,15 @@
                                         <i class="fas fa-chart-bar me-1"></i>
                                         Popularity relationship scatter plot &nbsp;
                                         <select id="metrics" class="selectpicker">
-                                            <option>Mustard</option>
-                                            <option>Ketchup</option>
-                                            <option>Relish</option>        
+                                            <option>Danceability</option>
+                                            <option>Energy</option>
+                                            <option>Liveness</option>
+                                            <option>Acousticness</option>
+                                            <option>Valence</option>
+                                            <option>Tempo</option>     
                                           </select>                                       
                                     </div>
-                                    <div class="card-body"><iframe src="charts/pre/popular_danceability.html" width="100%" height="600" title="description"></iframe></div>
+                                    <div class="card-body" id="scatter"></div>
                                 </div>
                             </div>
                         </div>
